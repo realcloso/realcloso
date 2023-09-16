@@ -14,7 +14,7 @@
 
  💬 Já estudei sobre **Java, C, Programação Orientada a Objetos, MySql, HTML, CSS, JavaScript**
 
- ⚡ Fobbies **musculação e jogos online**
+ ⚡ Hobbies **musculação e jogos online**
  
  </div>
  
