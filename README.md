@@ -29,11 +29,11 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=github,javascript,java,c#,c" /><br>
-    <img src="https://skillicons.dev/icons?i=angular,mysql,html,css,vscode" />
+    <img src="https://skillicons.dev/icons?i=angular,mysql,html,css,vscode,eclipse" />
 </div>
 
 <br/>
