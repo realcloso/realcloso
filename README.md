@@ -62,7 +62,7 @@
 <hr/>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Obrigado+pela+visita!+✌️;Botões+de+e-mail+ou+Linkedin+para+contato!;Estou+sempre+disposto+a+colaborar+:)">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=10000&lines=Obrigado+pela+visita!+✌️;Botões+de+e-mail+ou+Linkedin+para+contato!;Estou+sempre+disposto+a+colaborar+:)">
 </h3>
 
 <br/>
