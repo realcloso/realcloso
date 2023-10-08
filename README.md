@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 Estou trabalhando atualmente em um **aplicativo de gerenciamento veterinário**
+ 🔭 Estou trabalhando atualmente em um **aplicativo de gerenciamento para Hospitais Veterinários**
  
  🌱 Estou aprendendo atualmente **C#, Shell Script, Angular**
 
