@@ -10,9 +10,9 @@
  
  🔭 Estou trabalhando atualmente em um **aplicativo de gerenciamento para Hospitais Veterinários**
  
- 🌱 Estou aprendendo atualmente **C#, Shell Script, Angular**
+ 🌱 Estou aprendendo atualmente **TypeScript, React**
 
- 💬 Já estudei sobre **Java, C, Programação Orientada a Objetos, MySql, HTML, CSS, JavaScript**
+ 💬 Já estudei sobre **Java, C, Programação Orientada a Objetos, MySql, HTML, CSS, JavaScript, C#, Angular**
 
  ⚡ Hobbies: **musculação e jogos online**
  
@@ -32,7 +32,7 @@
 <h2 align="center">⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=github,javascript,java,c#,c" /><br>
+    <img src="https://skillicons.dev/icons?i=github,javascript,java,c#,react" /><br>
     <img src="https://skillicons.dev/icons?i=angular,mysql,html,css,vscode,eclipse" />
 </div>
 
