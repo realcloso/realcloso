@@ -12,7 +12,7 @@
  
  🌱 Estou aprendendo atualmente **TypeScript, React**
 
- 💬 Já estudei sobre **Java, C, Programação Orientada a Objetos, MySql, HTML, CSS, JavaScript, C#, Angular**
+ 💬 Já estudei sobre **Java, C, Programação Orientada a Objetos, MySql, HTML, CSS, JavaScript, C#, Angular,** etc.
 
  ⚡ Hobbies: **musculação e jogos online**
  
