@@ -31,9 +31,9 @@
  
 <h2 align="center">⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 <br/>
-<div align="center" style="display: flex; flex-direction: column;">
-    <img src="https://skillicons.dev/icons?i=github,javascript,java,cs,react,ts" /><br>
+<div align="center">
     <img src="https://skillicons.dev/icons?i=mysql,html,css,vscode,eclipse,nodejs,nextjs" />
+    <img src="https://skillicons.dev/icons?i=github,javascript,java,cs,react,ts" /><br>
 </div>
 
 <br/>
