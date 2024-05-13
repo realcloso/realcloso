@@ -31,9 +31,9 @@
  
 <h2 align="center">⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 <br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=mysql,html,css,vscode,eclipse,nodejs,nextjs" />
+<div align="center">    
     <img src="https://skillicons.dev/icons?i=github,javascript,java,cs,react,ts" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,html,css,vscode,eclipse,nodejs,nextjs" />
 </div>
 
 <br/>
@@ -51,9 +51,9 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=Closo99&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Closo99&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<div align=center style="display: flex; flex-direction: column;">
+    <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Closo99&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=390 src="https://streak-stats.demolab.com/?user=Closo99&theme=react&border_radius=10" alt="streak stats"/>  
 </div>
 
 <br/><br/>
